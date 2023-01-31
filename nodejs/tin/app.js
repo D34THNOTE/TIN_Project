@@ -5,6 +5,7 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 const authUtil = require("./utils/authUtil");
 
+
 /*routers */
 var indexRoute = require('./routes/indexRoute');
 const productModelRoute = require('./routes/productModelRoute');
