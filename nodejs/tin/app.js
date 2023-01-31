@@ -68,7 +68,6 @@ app.use((req, res, next) => {
     next();
 })
 
-
 // using routes
 app.use('/', indexRoute); // default router
 app.use('/ProductModel', authUtil.permitAuthenticatedUser, productModelRoute);
