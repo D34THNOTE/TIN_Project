@@ -5,7 +5,7 @@ known for. There is adding records(responsive, e.x. adding a new Order makes tha
 The user can log in(using email: test@gmail.com, password: 123 ), without doing so the user is unable to view any records or perform any operations - there is 
 a basic authorization model utilizing tokens
 
-The project is made using React.js library for front-end and Node.js(Express) for back-end which utilizes MongoDB and MySQL databases "hosted" on the Docker application
+The project is made using React.js library for front-end and Node.js(Express) for back-end which utilizes a MySQL database "hosted" in the Docker application
 
 To run:
 1. Clone the repository
