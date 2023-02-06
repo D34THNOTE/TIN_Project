@@ -2,7 +2,7 @@
 
 This is a simple website with a few tabs(Products, Orders and Ordered products) where we can execute some basic operations applications with front-end and back-end are
 known for. There is adding records(responsive, e.x. adding a new Order makes that "order" assignable to a new or existing "Ordered product"), editing and deleting them. 
-The user can log in(using email: guwnoimejl@gmail.com, password: 123 ), without doing so the user is unable to view any records or perform any operations - there is 
+The user can log in(using email: test@gmail.com, password: 123 ), without doing so the user is unable to view any records or perform any operations - there is 
 a basic authorization model utilizing tokens
 
 The project is made using React.js library for front-end and Node.js(Express) for back-end which utilizes MongoDB and MySQL databases "hosted" on the Docker application
