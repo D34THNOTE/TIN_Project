@@ -14,6 +14,7 @@ your Docker with 3 entities - PhpMyAdming, MongoDB(not used by the app) and a My
 3. Before running the application make sure that the newly created MySql database is running(i.e. nothing occupies the 3306 port - that may especially be the case if
 you are running another databse on the 3306 port, which the default MySql port)
 4. (using command line)Run "npm start" command separately in "tin" folder(inside nodejs) and then in "tin-react-app"(inside reactjs)
+
 4a. Alternatively, if you have Webstorm installed, you can open these projects in that application, then open package.json file and press the "run" 
 button(green triangle), the one next to "start"
 
